@@ -1,10 +1,8 @@
-<!-- Your title -->
+
 ## Hello, I'm Rezki!
 
- Your badges
-![GitHub followers](https://img.shields.io/github/followers/LesGrooper?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/LesGrooper/reactjs_test?style=for-the-badge)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ekijabbar/)
+
 
 &nbsp;
 
@@ -38,3 +36,8 @@
 </p>
 
 ---
+
+
+### My social profile:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ekijabbar/)
+![GitHub followers](https://img.shields.io/github/followers/LesGrooper?style=social)
